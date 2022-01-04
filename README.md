@@ -1,5 +1,3 @@
 Read me
 
-'ola mundo'
-'outra alteração'
-'alteração1'
+Projeto Git
